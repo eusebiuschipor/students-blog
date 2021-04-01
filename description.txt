@@ -1,0 +1,25 @@
+v5:
+
+- "Show students" button is changing the text to "Hide students" when the students are shown 
+- The list of articles is taken from src/data/articles-list-data.js 
+- "Delete article" button and when it is clicked the article is deleted
+- The "Show students" button should have the red background when the list of students is hidden and green background when the list of students is shown
+
+v6:
+
+- Article title validation 
+
+v7:
+
+- Random character style for title
+- Remove character from title at click 
+
+!!!! Before v8 the students needs to make all the exercises from cap 6 and to have a explanation for useEffect
+
+v8:
+- Add red class when we have 2 articles and the classes red and bold when we have one article. Use the effect hook for this.
+- Use radium: (npm install --save radium). With radium add an inline hover style for every character from Char component
+- Using inline style, add a media query that makes the students cards to be light gray when the resolution is lower than 1000px
+
+v9:
+- Install and use STYLED COMPONENTS library: (npm install --save styled-components)
